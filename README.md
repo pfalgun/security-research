@@ -15,3 +15,7 @@ Independent vulnerability research by Falgun Patel. Seven CVEs discovered and re
 ## About
 
 Senior security engineer focused on offensive and product security: penetration testing, manual source code review, threat modeling, and AI and LLM security. CISM certified, CISSP in progress. Connect on [LinkedIn](https://www.linkedin.com/in/fdp).
+
+## Notes
+
+- [AI and LLM Security — Red-Teaming Notes](AI-LLM-Security-Notes.md): field notes against the OWASP Top 10 for LLM Applications (2025), with how I test each risk and what I look for on defense.

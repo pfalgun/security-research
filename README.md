@@ -19,3 +19,5 @@ Senior security engineer focused on offensive and product security: penetration 
 ## Notes
 
 - [AI and LLM Security — Red-Teaming Notes](AI-LLM-Security-Notes.md): field notes against the OWASP Top 10 for LLM Applications (2025), with how I test each risk and what I look for on defense.
+- [AI and LLM Security — Red-Teaming Notes](AI-LLM-Security-Notes.md): field notes against the OWASP Top 10 for LLM Applications (2025).
+- [LLM Security Testing — Prompt Dictionary](LLM-Security-Prompt-Dictionary.md): technique-organized test prompts for LLM and agent security, mapped to the OWASP LLM Top 10.

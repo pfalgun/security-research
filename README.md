@@ -1,6 +1,6 @@
 # Security Research
 
-Independent vulnerability research by Falgun Patel. Seven CVEs discovered and responsibly disclosed through Patchstack across widely used web-application (WordPress) plugins. Vulnerability classes include SQL injection, reflected cross-site scripting (XSS), and path traversal, with several rated High severity (CVSS 7.1 to 7.6).
+Vulnerability research by Falgun Patel. Seven CVEs discovered and responsibly disclosed through Patchstack across widely used web-application (WordPress) plugins. Vulnerability classes include SQL injection, reflected cross-site scripting (XSS), and path traversal, with several rated High severity (CVSS 7.1 to 7.6).
 
 ## Published CVEs (2024 to 2025)
 
